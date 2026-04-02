@@ -1,6 +1,7 @@
 # Sales Performance Dashboard | Power BI
 
 #Overview
+
 Built an interactive Power BI dashboard to analyze €126M+ revenue, €86.9M gross profit, and 4M units sold across multiple countries and products.
 
 #Key Features
