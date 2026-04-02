@@ -21,4 +21,4 @@ Built an interactive Power BI dashboard to analyze €126M+ revenue, €86.9M gr
 ## Business Impact
 - Identified 36.67% QoQ growth spike
 - Improved reporting speed by 75%
-- Enabled geo-level sales analysis
+
