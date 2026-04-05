@@ -1,4 +1,4 @@
-# Sales Performance Dashboard | Power BI
+# Sales Performance Dashboard | Power BI,, Power Query, DAX, Data Modeling 
 
 #Overview
 
